@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Shubham Raj/Desktop/API_UI_Automation/E2E_API_Auto_SEP24/E2E_API_AUTO_SEP24">
+        <classes>
+            <class name="testcases.CreateItem_POST">
+                <methods>
+                    <include name="createItemPOST"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
