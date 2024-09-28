@@ -4,9 +4,9 @@
     <test verbose="2" preserve-order="true"
           name="C:/Users/Shubham Raj/Desktop/API_UI_Automation/E2E_API_Auto_SEP24/E2E_API_AUTO_SEP24">
         <classes>
-            <class name="testcases.CreateItem_POST">
+            <class name="testcases.All_API_Suite">
                 <methods>
-                    <include name="createItemPOST"/>
+                    <include name="test_createItem"/>
                 </methods>
             </class>
         </classes>
